@@ -16,6 +16,7 @@ import javax.servlet.http.HttpServletRequest;
 @Controller
 public class LogoutController
 {
+    
     /**
      * Connect to the Token store so the application can remove the token
      */
